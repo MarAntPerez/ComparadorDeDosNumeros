@@ -5,6 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	
+	/**Estas variables de tipo entero guardan los numeros ingresados por el usuario**/
 	int numeroOne;
 	int numeroTwo;
 	
